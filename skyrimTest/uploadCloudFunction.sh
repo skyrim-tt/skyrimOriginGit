@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e cloud1-9gx01yhh58357807 --n quickstartFunctions --r --project "/Users/skyrim/skyrimGit/skyrimTest" --report
