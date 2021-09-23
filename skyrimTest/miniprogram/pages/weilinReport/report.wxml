@@ -1,0 +1,20 @@
+<!--pages/report/report.wxml-->
+
+<view class="wholePage">
+    <!-- 上部标签栏部分 -->
+    <view class="topTabBar">
+        <!-- 搜索框，功能暂不写，二期功能升级 -->
+        <view class="searchBar">
+            <image class="searchIcon" src="../../image/reportImage/searchIcon.png"></image>
+            <input class="searchInput" type="text" placeholder="输入手机号、姓名、条件码"></input>
+        </view>
+        <!-- 切换标签页 -->
+        <view>
+            
+        </view>
+    </view>
+    <!-- 报告卡片展示区域 -->
+    <view class="reportCardArea">
+
+    </view>
+</view>
